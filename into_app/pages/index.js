@@ -9,8 +9,7 @@ import {
   Link,
   Card,
   Grid,
-  useTheme, Text,
-  Loading
+  useTheme, Text
 } from '@nextui-org/react';
 import { Iconly } from 'react-iconly'
 
