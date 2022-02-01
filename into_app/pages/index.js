@@ -11,7 +11,6 @@ import {
   Grid,
   useTheme, Text,
   Loading
-  
 } from '@nextui-org/react';
 import { Iconly } from 'react-iconly'
 
